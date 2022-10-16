@@ -39,6 +39,14 @@ Here are some ideas to get you started:
 - [自动驾驶／智能驾驶已经成为了时下最热门的话题之一，那么实现这个技术的决定性因素有哪些呢？](http://www.zhihu.com/question/47741800/answer/2698756795?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 <!-- BLOG-POST-LIST:END -->
 
+[blogger]: https://shenxianpeng.github.io/
+[zhihu]: https://www.zhihu.com/people/shenxianpeng
+[wechat]: https://github.com/shenxianpeng/blog/blob/master/source/about/index/qrcode.jpg?raw=true
+[linkedin]: https://www.linkedin.com/in/xianpeng-shen/
+[gmail]: mailto:xianpeng.shen@gmail.com
+[paypal]: https://www.paypal.me/shenxianpeng
+[dev.to]: https://dev.to/shenxianpeng
+[cpp-linter]: https://github.com/cpp-linter
 
 
  ![Profile views](https://gpvc.arturio.dev/lwxfairy)
