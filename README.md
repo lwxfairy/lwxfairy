@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to implement [skip ci] for Jenkins multi-branch pipeline](https://shenxianpeng.github.io/2022/10/jenkins-skip-ci/)
-- [How to fix &quot;Temporary Failure in name resolution&quot; in WSL](https://shenxianpeng.github.io/2022/09/fix-wsl-networking-issue/)
-- [Restrict others from login your important Linux machine](https://shenxianpeng.github.io/2022/09/restrict-connect-server/)
-- [C/C++ 代码格式化和静态分析检查的一站式工作流 Cpp Linter](https://shenxianpeng.github.io/2022/08/cpp-linter/)
-- [How to create GPG keys and add to GitHub](https://shenxianpeng.github.io/2022/07/create-gpg-keys/)
+- [如何看待特斯拉即将取消超声波雷达，采用纯视觉方案？](http://www.zhihu.com/question/558212074/answer/2708994833?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+- [如何评价新能源汽车的换电模式？以及如何看待其未来的发展前景？](http://www.zhihu.com/question/411769140/answer/2702210121?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+- [为什么毫米波雷达无法识别静态物体？](http://www.zhihu.com/question/308426613/answer/2702035684?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+- [如何加快汽车与互联网、通信、大数据、人工智能、可再生能源等技术的跨界融合？需要解决哪些阻碍？](http://www.zhihu.com/question/435131276/answer/2699531032?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+- [车联网功能给我们的用车生活带来了哪些便利？](http://www.zhihu.com/question/555877608/answer/2698840274?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 <!-- BLOG-POST-LIST:END -->
 
 
