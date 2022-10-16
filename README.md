@@ -54,13 +54,6 @@ Here are some ideas to get you started:
 - [组织内如何评估 CI/CD 成熟度](https://shenxianpeng.github.io/2021/12/cicd-assessment/)
 <!-- BLOG-POST-LIST:END -->
 
-[blogger]: https://shenxianpeng.github.io/
-[zhihu]: https://www.zhihu.com/people/shenxianpeng
-[wechat]: https://github.com/shenxianpeng/blog/blob/master/source/about/index/qrcode.jpg?raw=true
-[linkedin]: https://www.linkedin.com/in/xianpeng-shen/
-[gmail]: mailto:xianpeng.shen@gmail.com
-[paypal]: https://www.paypal.me/shenxianpeng
-[dev.to]: https://dev.to/shenxianpeng
-[cpp-linter]: https://github.com/cpp-linter
+
 
  ![Profile views](https://gpvc.arturio.dev/shenxianpeng)
