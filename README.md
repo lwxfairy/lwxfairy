@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 - [为什么毫米波雷达无法识别静态物体？](http://www.zhihu.com/question/308426613/answer/2702035684?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 - [如何加快汽车与互联网、通信、大数据、人工智能、可再生能源等技术的跨界融合？需要解决哪些阻碍？](http://www.zhihu.com/question/435131276/answer/2699531032?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 - [车联网功能给我们的用车生活带来了哪些便利？](http://www.zhihu.com/question/555877608/answer/2698840274?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+- [自动驾驶／智能驾驶已经成为了时下最热门的话题之一，那么实现这个技术的决定性因素有哪些呢？](http://www.zhihu.com/question/47741800/answer/2698756795?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 <!-- BLOG-POST-LIST:END -->
 
 
