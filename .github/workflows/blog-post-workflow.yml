@@ -14,5 +14,5 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://nsddd.top/rss.xml"
+          feed_list: "http://110.42.175.115:8090/rss.xml"
           max_post_count: 20
